@@ -14,6 +14,8 @@ Projeto em Java de uma API de lista de tarefas
 - Java
 - Spring Boot
 - H2 Database
+- API DOG
+- Lombok
 
 
 ### Endpoint Base
@@ -56,6 +58,9 @@ A API pode retornar alguns códigos de erro HTTP em caso de solicitações invá
 |  404  | Tarefa não encontrada    |
 |  500  | Erro interno do servidor |
 
-### Devs
+### Tecnologias Utilizadas
+Java 17
+
+### Dev
 
 - [Hendrew Neres](https://github.com/drewneres)
