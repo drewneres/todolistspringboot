@@ -9,9 +9,9 @@ Projeto em Java de uma API de lista de tarefas
 - [x] Atualizar Tarefa
 - [x] Listar Tarefas do usuário logado
 
-### Tecnologias
+### Tecnologias Utilizadas
 
-- Java
+- Java 17
 - Spring Boot
 - H2 Database
 - API DOG
@@ -58,8 +58,6 @@ A API pode retornar alguns códigos de erro HTTP em caso de solicitações invá
 |  404  | Tarefa não encontrada    |
 |  500  | Erro interno do servidor |
 
-### Tecnologias Utilizadas
-Java 17
 
 ### Dev
 
