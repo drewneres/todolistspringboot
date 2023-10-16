@@ -9,7 +9,7 @@ Projeto em Java de uma API de lista de tarefas
 - [x] Atualizar Tarefa
 - [x] Listar Tarefas do usuário logado
 
-## Tecnologias
+### Tecnologias
 
 - Java 17
 - Spring Boot
