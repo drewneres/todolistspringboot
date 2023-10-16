@@ -61,6 +61,6 @@ A API pode retornar alguns códigos de erro HTTP em caso de solicitações invá
 |  500  | Erro interno do servidor |
 
 
-### Dev
+### Desenvolvedor
 
 - [Hendrew Neres](https://github.com/drewneres)
