@@ -16,6 +16,7 @@ Projeto em Java de uma API de lista de tarefas
 - H2 Database
 - API DOG
 - Lombok
+- Maven
 
 
 ### Endpoint Base
