@@ -9,7 +9,7 @@ Projeto em Java de uma API de lista de tarefas
 - [x] Atualizar Tarefa
 - [x] Listar Tarefas do usuário logado
 
-### Tecnologias Utilizadas
+## Tecnologias
 
 - Java 17
 - Spring Boot
@@ -17,6 +17,7 @@ Projeto em Java de uma API de lista de tarefas
 - API DOG
 - Lombok
 - Maven
+- Git and Github
 
 
 ### Endpoint Base
