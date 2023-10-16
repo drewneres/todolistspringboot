@@ -17,6 +17,7 @@ Projeto em Java de uma API de lista de tarefas
 - API DOG
 - Lombok
 - Maven
+- Docker
 - Git and Github
 
 
